@@ -1,0 +1,26 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+body{
+	background: #e7e7e7;	
+	width:100%;	
+}
+a{
+	
+	background-color:white;
+	text-decoration:none;
+	color: black;
+	font-size:1.8rem;
+	display:block;
+	padding: 1.6em .6em;
+	margin: .6em .6em;
+	box-shadow: .2em .1em .1em .1em rgba(0,0,0,.02);
+}
+
+a:hover{
+
+	border: .01em solid black;
+}
